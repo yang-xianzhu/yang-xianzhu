@@ -3,4 +3,4 @@
 
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yang-xianzhu&layout=compact&theme=tokyonight) -->
-<!-- ![yang-xianzhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=yang-xianzhu&show_icons=true&theme=tokyonight) -->
+![yang-xianzhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=yang-xianzhu&show_icons=true&theme=tokyonight)
